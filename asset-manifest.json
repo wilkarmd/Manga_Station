@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Manga_Station/static/css/main.9521a94c.css",
-    "main.js": "/Manga_Station/static/js/main.ef47690c.js",
+    "main.js": "/Manga_Station/static/js/main.6b964c8c.js",
     "static/js/453.00cc6552.chunk.js": "/Manga_Station/static/js/453.00cc6552.chunk.js",
     "index.html": "/Manga_Station/index.html",
     "main.9521a94c.css.map": "/Manga_Station/static/css/main.9521a94c.css.map",
-    "main.ef47690c.js.map": "/Manga_Station/static/js/main.ef47690c.js.map",
+    "main.6b964c8c.js.map": "/Manga_Station/static/js/main.6b964c8c.js.map",
     "453.00cc6552.chunk.js.map": "/Manga_Station/static/js/453.00cc6552.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9521a94c.css",
-    "static/js/main.ef47690c.js"
+    "static/js/main.6b964c8c.js"
   ]
 }
